@@ -1,15 +1,16 @@
-#hero{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    flex-direction: column;
-    height: 600px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    transition: all 0.s ease-in;
-    color: white;
+#hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.s ease-in;
+  color: white;
 }
+
 #hero h1 {
   font-size: 40px;
   font-weight: bold;

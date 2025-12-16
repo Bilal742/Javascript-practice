@@ -9,7 +9,7 @@ const images = [
 
 let current = 0;
 
-function updateImage() {
+function updateImage() {  
     const heroSection = document.getElementById("hero");
     heroSection.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(${images[current]})`
 }
