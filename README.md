@@ -9,96 +9,55 @@ Perfect for students, beginners, and anyone who wants to strengthen their JavaSc
 
 ## 📌 Topics Covered
 
-### 1️⃣ Basics & Fundamentals
-- Alert & Prompt
-- Variables (`var`, `let`, `const`)
-- Data Types
-- Console Methods (`log`, `table`, `error`, `warn`)
-- Operators
-  - Arithmetic Operators
-  - Assignment Operators
-  - Comparison Operators
-  - Logical Operators
-- Increment & Decrement Operators
+## 📁 Topics (With Details)
 
----
+- **Alert and Variable**  
+  Learn how to display messages using `alert()` and declare variables using `var`, `let`, and `const`.
 
-### 2️⃣ Conditions & Control Flow
-- If, Else, Else If
-- Nested Conditions
-- Switch Case
-- Ternary Operator
+- **Arrays**  
+  Practice creating arrays, accessing elements, and using array methods like `push()`, `pop()`, `shift()`, `unshift()`, etc.
 
----
+- **Loops**  
+  Understand `for`, `while`, and `do-while` loops to repeat tasks efficiently.
 
-### 3️⃣ Loops
-- `for` loop
-- `while` loop
-- `do...while` loop
-- `for...of`
-- `for...in`
+- **Console**  
+  Use `console.log()`, `console.warn()`, `console.error()`, and other console methods for debugging and output.
 
----
+- **Objects**  
+  Learn how to create objects, access properties, and use methods for structured data.
 
-### 4️⃣ Functions
-- Function Declaration
-- Function Expression
-- Arrow Functions
-- Parameters & Return
-- Callback Functions
+- **If else Conditions**  
+  Practice conditional logic using `if`, `else if`, and `else` statements.
 
----
+- **Function**  
+  Understand how to write reusable code using functions, including **arrow functions** and **parameters**.
 
-### 5️⃣ Arrays
-- Array Creation
-- Array Methods
-  - `push`, `pop`, `shift`, `unshift`
-  - `map`
-  - `filter`
-  - `reduce`
-- Looping through Arrays
-- Array Logic Practice
+- **Map**  
+  Learn how to transform arrays using the `map()` method.
 
----
+- **Filter**  
+  Use the `filter()` method to create new arrays based on conditions.
 
-### 6️⃣ Objects
-- Object Creation
-- Accessing Properties
-- Nested Objects
-- Object Methods
-- Looping Objects
+- **Reduce**  
+  Understand `reduce()` for accumulating values from arrays.
 
----
+- **Assign**  
+  Practice variable assignment and destructuring for easier code.
 
-### 7️⃣ Strings
-- String Methods
-- Template Literals
-- Escape Sequence Characters
-  - `\n`, `\t`, `\\`, `\"`
+- **Logic**  
+  Build logical thinking using operators and problem-solving tasks.
 
----
+- **Compare Operators**  
+  Learn comparison operators like `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=` for decision making.
 
-### 8️⃣ Scope & Memory
-- Global Scope
-- Block Scope
-- Function Scope
-- Hoisting (Basics)
+- **Global and Block Scope**  
+  Understand the scope of variables and how `var`, `let`, and `const` behave in different scopes.
 
----
+- **Increment / Decrement**  
+  Use `++` and `--` operators to increase or decrease values.
 
-### 9️⃣ Advanced JavaScript
-- Map & Set
-- Error Handling (`try`, `catch`)
-- Local Storage
-- JSON Basics
-
----
-
-### 🔟 Logic Building Practice
-- Number & String Logic
-- Array & Object Logic
-- Condition-based Problems
-- Real-world Practice Tasks
+- **Escape Sequence Character**  
+  Learn special characters in strings like `\n`, `\t`, `\\`, and how to use them properly.
 
 ---
 
