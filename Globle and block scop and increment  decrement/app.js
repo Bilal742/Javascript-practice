@@ -1,3 +1,5 @@
+console.log("helllo world");
+
 {
     var firstName = "Harry";
 }

@@ -1,3 +1,5 @@
+console.log("helllo world");
+
 let assignment = 1;
 assignment += 10;
 assignment -= 10;

@@ -1,3 +1,5 @@
+console.log("helllo world");
+
 // Escape sequence character
 let name = "Bil\tal"
 console.log(name);

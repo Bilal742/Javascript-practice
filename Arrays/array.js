@@ -1,3 +1,5 @@
+console.log("helllo world");
+
 let array = ["Orange", "Mango", "Banana", "Apple", true, 50];
 array[6] = 30
 console.log(array[0]);

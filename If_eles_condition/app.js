@@ -1,3 +1,5 @@
+console.log("helllo world");
+
 let a = prompt("Hey whats your age?");
 // let value = a.trim();
 

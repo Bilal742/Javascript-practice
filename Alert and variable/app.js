@@ -1,8 +1,11 @@
-alert("Hello Bilal")
+console.log("helllo world");
+
+alert("Hello Bilal");
 
 var promt = prompt("Enter your name");
 var name = "bilal " + promt;
 console.log(name);
+
 name = "harry"
 console.log(name);
 
@@ -11,12 +14,12 @@ alert("I ama 18 years old");
 
 var firstName = "Bilal";
 var lastName = "ali";
-lastName = "rehman"
+lastName = "rehman";
 
 console.log(firstName + " " + lastName);
 
 var name = "Bilal";
-alert(name)
+alert(name);
 
 var firstNumber = 100;
 var lastNumber = 200;
@@ -30,13 +33,13 @@ var Number = "Numbers";
 
 var Name = "Bilal";
 var firstName = "Bilal";
-var last_name = "ali"
+var last_name = "ali";
 
 var numbers = 10 + 5 * 7 / 8 - 10;
 console.log(numbers);
 
 var num = 10;
-total = ++num + --numbers
+total = ++num + --numbers;
 console.log(total);
 
 var name = "Bilal";

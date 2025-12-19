@@ -21,9 +21,4 @@ setInterval(()=>{
     updateImage();
 }, 3000);
 
-
-
-
-
-
 // linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
