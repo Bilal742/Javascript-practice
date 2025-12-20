@@ -16,4 +16,4 @@ else {
 
 write ?
     document.writeln(`<h1>${a}</h1>`)
-    : document.writeln("Please allow me to write");
+    : document.writeln("Please allow me to write")
