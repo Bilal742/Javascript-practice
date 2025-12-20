@@ -7,7 +7,7 @@ console.log("helllo world");
 function name() {
     var firstName = "Harry";
     // console.log(firstName);
-}
+}  
 
 console.log(name());
 
