@@ -13,7 +13,7 @@ if (value == "") {
 
     else if (age <= 15) {
         alert("Abhi nhi 2 saal bt")
-    }
+    } 
 
     else {
         alert("You can drive now your age is 18")
