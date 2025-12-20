@@ -152,8 +152,8 @@ javascript-practice/
 ## 🛠 How to Use
 
 1. Clone the repository:
-   ```bash
    
+   ```bash
    git clone https://github.com/Bilal742/javascript-practice.git
    
 ## ⭐ Support
