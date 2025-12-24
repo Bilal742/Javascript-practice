@@ -15,7 +15,7 @@ while (runAgain) {
         (userChoice === "water" && computerChoice === "gun") ||
         (userChoice === "gun" && computerChoice === "snake")
     ) {
-        alert("You win! 🎉");
+        alert("You win! 🎉"); 
     } else if (
         (userChoice === "snake" && computerChoice === "gun") ||
         (userChoice === "water" && computerChoice === "snake") ||
