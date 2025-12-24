@@ -43,20 +43,25 @@ else {
     alert("Somthing worng...")
 }
 
-let color1 = prompt("Enter any color name");
 
-let test = document.createElement("div");
-test.style.color1 = color1;
+let runAgain1 = true
 
-if (test.style.color1 !== "") {
-    document.body.style.background = color1;
-} else {
-    alert("Invalid color name")
+while (runAgain) {
+    let color1 = prompt("Enter any color name");
+    let test = document.createElement("div");
+    test.style.color = color1;
+
+    if (test.style.color !== "") {
+        document.body.style.background = color1;
+    } else {
+        alert("Invalid color name");
+    }
+    runAgain = confirm("Do you want to play again!");
 }
 
 let age = prompt("Enter your age");
 age = Number.parseInt(age);
-let runAgain = true;
+let runAgain2 = true;
 
 let carDrive = (age) => {
     return age >= 18 ? true : false;
@@ -66,7 +71,12 @@ while (runAgain) {
     let age = prompt("Enter your age");
     age = Number.parseInt(age);
 
-    if (isNaN(age)) {
+    if (age <= 0) {
+        console.error("Please enter a valid age");
+        break;
+    }
+
+    else if (isNaN(age)) {
         alert("Please enter a valid number");
     } else if (carDrive(age)) {
         alert("Yes, you can drive");
@@ -75,4 +85,25 @@ while (runAgain) {
     };
 
     runAgain = confirm("Do you want to play again!");
-};   
+};
+
+let runAgain = true
+
+while (runAgain) {
+    let num = prompt("Enter your age");
+    num = Number.parseInt(num);
+
+    if (isNaN(num)) {
+        alert("Please enter a valid number");
+    }
+
+    else if (num > 4) {
+        window.location = "https://google.com"
+    }
+
+    else {
+        alert("Somthing wrong...")
+    }
+
+    runAgain = confirm("Do you want to play again!")
+}
