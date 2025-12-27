@@ -14,7 +14,7 @@ let color = prompt("Enter random color name");
 if (color === "red") {
     document.body.style.background = "red"
 }
-
+ 
 else if (color === "blue") {
     document.body.style.background = "blue"
 }
