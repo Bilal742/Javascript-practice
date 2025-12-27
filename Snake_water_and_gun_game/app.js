@@ -12,7 +12,7 @@ while (runAgain) {
         alert("It's a tie!");
     } else if (
         (userChoice === "snake" && computerChoice === "water") ||
-        (userChoice === "water" && computerChoice === "gun") ||
+        (userChoice === "water" && computerChoice === "gun") ||  
         (userChoice === "gun" && computerChoice === "snake")
     ) {
         alert("You win! 🎉");  
