@@ -16,7 +16,7 @@ if (color === "red") {
 }
 
 else if (color === "blue") {
-    document.body.style.background = "blue"
+    document.body.style.background = "blue" 
 }
 
 else if (color === "yellow") {
