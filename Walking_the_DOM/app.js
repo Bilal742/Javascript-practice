@@ -7,7 +7,7 @@
 
 // console.log(box); 
 
-document.getElementById("box").style.background = "red";
-document.getElementById("box").style.color = "blue";
-document.getElementById("box").style.paddingTop = "30px";
+// document.getElementById("box").style.background = "red";
+// document.getElementById("box").style.color = "blue";
+// document.getElementById("box").style.paddingTop = "30px";
 
