@@ -17,7 +17,7 @@ allParas.forEach(para => {
     para.style.color = "red"
 });
 
-let nums = [1, 2, 3];
+let nums = [1, 2, 3]; 
 
 let double = nums.map(n => n * 2);
 console.log(double);       
