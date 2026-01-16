@@ -1,4 +1,4 @@
-# JavaScript Complete Practice 🚀
+# JavaScript Complete Practice 🚀  
 
 This repository is created to **learn and practice JavaScript from beginner to advanced level**.  
 It covers core concepts, modern JavaScript features, and logic-building exercises with clear examples.
