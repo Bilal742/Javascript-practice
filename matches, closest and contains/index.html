@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,14 +9,56 @@
 
 <body>
     <div class="container">
-        <h1 class="btn">hello</h1>
+        <h1 class="box">hello</h1>
     </div>
 
-    <div class="box" id="id1">This is an element 1 <span id="sp1">hye</span></div>
+    <div class="c" id="id1">This is an element 1 <span id="sp1">hye</span></div>
     <div class="box" id="id2">This is an element 2</div>
 
     <button class="btn">Click</button>
-    <script src="app.js"></script>
+    <div>
+        <span id="child"></span>
+    </div>
+
+    <div class="box" id="parent">
+        <span id="child"></span>
+    </div>
+
+    <script>
+        const child = document.getElementById("child")
+        child.matches(".box");
+        child.matches(".box")
+        console.log(child);
+    </script>
+</body>
+
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>matches, closest and contains</title>
+</head>
+
+<body>
+    <h1>Matches, Closest And Contains</h1>
+
+    <div id="id1">This is a element 1 <span id="sp1">span 1</span><span class="box">hyee</span></div>
+    <div class="box" id="id2">This is a element 2</div>
+
+    <script>
+        console.log("matches, closest and contains");
+        // const id1 = document.getElementById("id1");
+        // console.log(id1.matches(".box"));
+        console.log(sp1.closest(".box"));
+
+
+    </script>
 </body>
 
 </html>
