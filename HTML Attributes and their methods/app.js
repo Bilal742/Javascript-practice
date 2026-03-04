@@ -12,4 +12,4 @@ let c = first.setAttribute("style", "color:red");
 console.log(c);
 
 console.log(first.getAttribute("style"));
- 
+  
